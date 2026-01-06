@@ -1,7 +1,7 @@
 [
   {
     "id": "app_1767669590465",
-    "name": "甲壳虫1554",
+    "name": "甲壳虫ADB",
     "category": "工具",
     "platform": [
       "安卓"
@@ -13,6 +13,7 @@
     "desc": "牛啊",
     "size": "20mb",
     "updated": "2026-01-06",
+    "icon": "https://bkimg.cdn.bcebos.com/pic/d62a6059252dd42a2834231021604cb5c9ea15ce124f?x-bce-process=image/format,f_auto/quality,Q_70/resize,m_lfit,limit_1,w_536",
     "downloads": [
       {
         "label": "123",
