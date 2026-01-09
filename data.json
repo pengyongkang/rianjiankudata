@@ -1,5 +1,31 @@
 [
   {
+    "id": "app_1767923294623",
+    "name": "burpsuite",
+    "category": "工具",
+    "platform": [
+      "Windows"
+    ],
+    "tags": [
+      "工具，windows，抓包，渗透"
+    ],
+    "desc": "BurpSuite安全工具 - Web漏洞扫描与渗透测试",
+    "size": "409MB",
+    "updated": "2026-01-09",
+    "icon": "https://img0.baidu.com/it/u=3131326366,765265674&fm=253&fmt=auto&app=138&f=JPEG?w=243&h=243",
+    "official": "https://portswigger.net/burp",
+    "downloads": [
+      {
+        "label": "移动云",
+        "url": "https://yun.139.com/shareweb/#/w/i/2su6CuXXBoKk9"
+      },
+      {
+        "label": "123云",
+        "url": "https://www.123865.com/s/10N7Vv-pMOL3?pwd=uqyP#"
+      }
+    ]
+  },
+  {
     "id": "app_1764740034900",
     "name": "Chrome",
     "category": "工具",
