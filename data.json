@@ -1,7 +1,7 @@
 [
   {
     "id": "app_1767923294623",
-    "name": "burpsuite",
+    "name": "Burp suite",
     "category": "工具",
     "platform": [
       "Windows"
@@ -39,18 +39,17 @@
       "浏览器"
     ],
     "desc": "官方windows 64位离线安装包",
-    "size": "1",
-    "updated": "2026-01-08",
+    "updated": "2026-01-09",
     "icon": "https://gimg3.baidu.com/topone/src=https%3A%2F%2Fbkimg.cdn.bcebos.com%2Fsmart%2Fbba1cd11728b4710b912b512f295d4fdfc03934585e0-bkimg-process%2Cv_1%2Crw_1%2Crh_1%2Cmaxl_800%2Cpad_1%3Fx-bce-process%3Dimage%2Fresize%2Cm_pad%2Cw_348%2Ch_348%2Ccolor_ffffff&refer=http%3A%2F%2Fwww.baidu.com&app=2011&size=f200,200&n=0&g=0n&er=404&q=75&fmt=auto&maxorilen2heic=2000000?sec=1764867600&t=a2f683a21f34fdef22a6d503d2b85ad9",
     "official": "https://www.google.cn/chrome/?standalone=1&platform=win64",
     "downloads": [
       {
-        "label": "123云",
-        "url": "https://www.123865.com/s/10N7Vv-5IOL3?pwd=IA3P#"
-      },
-      {
         "label": "移动云",
         "url": "https://yun.139.com/shareweb/#/w/i/2srGYat6uXNbr"
+      },
+      {
+        "label": "123云",
+        "url": "https://www.123865.com/s/10N7Vv-5IOL3?pwd=IA3P#"
       }
     ]
   }
