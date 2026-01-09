@@ -1,5 +1,32 @@
 [
   {
+    "id": "app_1767925716915",
+    "name": "Motrix",
+    "category": "工具",
+    "platform": [
+      "Windows"
+    ],
+    "version": "1.8.19",
+    "tags": [
+      "下载工具，windwows，种子，电驴，不限速"
+    ],
+    "desc": "功能齐全的下载管理器\n支持下载HTTP、FTP、BitTorrent、Magnet等。",
+    "size": "63MB",
+    "updated": "2026-01-09",
+    "icon": "https://img0.baidu.com/it/u=708316625,2309956613&fm=253&fmt=auto&app=138&f=PNG?w=500&h=500",
+    "official": "https://motrix.app/download",
+    "downloads": [
+      {
+        "label": "移动云",
+        "url": "https://motrix.app/download"
+      },
+      {
+        "label": "123云",
+        "url": "https://motrix.app/download"
+      }
+    ]
+  },
+  {
     "id": "app_1767923294623",
     "name": "Burp suite",
     "category": "工具",
